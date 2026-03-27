@@ -1,4 +1,4 @@
-This repository contains code, assignments, and auxiliary files from my disciplines in the Mathematics program at the [University of São Paulo (USP)](https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo).
+This repository contains code, assignments, and auxiliary files from my disciplines in the Computational Mathematics program at the [University of São Paulo (USP)](https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo).
 
 ## Structure
 
