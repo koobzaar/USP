@@ -68,3 +68,24 @@ vcpkg_installed/
 Testing/
 .cache/
 .vscode/
+
+# Competitive Programming Tools
+.cph/
+tempCodeRunnerFile*
+.prob
+
+# Binaries
+# Ignore all files without extensions in directories containing source code
+SME0230_Introduction_Computer_Programming/codes/*
+!SME0230_Introduction_Computer_Programming/codes/*.*
+GEMA/Introduction_to_CPP/Codeforces/*
+!GEMA/Introduction_to_CPP/Codeforces/*.*
+GEMA/Introduction_to_CPP/OBI_Neps/*
+!GEMA/Introduction_to_CPP/OBI_Neps/*.*
+GEMA/Introduction_to_CPP/Basics/*
+!GEMA/Introduction_to_CPP/Basics/*.*
+
+# Generic binaries
+*.exe
+*.out
+*.app
